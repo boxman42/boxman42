@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @boxman42
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in machine learning, transformers, NLP, and chatbots
+- 🌱 I’m currently learning HTLM, web dev, and all sorts of machine-learning stuff
+- 💞️ I’m looking to collaborate on anything machine learning or NLP-related
 - 📫 How to reach me ... noahmurrant@gmail.com
 
 <!---
